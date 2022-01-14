@@ -1,10 +1,11 @@
-# Computer_Vision_Robotic_images
+# Computer Vision Robotic images
 
-Algorithme développé dans le cadre de travaux de recherche dans un laboratoire en australie.
+## 🎯 Introduction
 
-Développement d'un algorithme de détection d'un câble d'amarrage à partir de vidéos prises par un robot sous-marin.
+Algorithm developed in the context of a post doctoral research work in a laboratory in Adélaïde, Australia during an internship of 5 months.
+The code developed allowed a team of roboticists to autonomously dock an underwater robot from videos taken by the robots.
 
-Technos :
+## 👨‍💻 Technologies used :
 - Computer Vision / Machine Learning
 - Python (OpenCV, scikit Learn)
 - Filtre de Kalman
