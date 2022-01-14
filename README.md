@@ -1,4 +1,4 @@
-# Computer Vision Robotic images
+# Computer Vision : Object detection from robotic images
 
 ## 🎯 Introduction
 
